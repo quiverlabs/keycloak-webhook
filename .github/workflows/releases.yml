@@ -64,4 +64,3 @@ jobs:
           prerelease: false
           allowUpdates: true
           bodyFile: CHANGELOG.md
-          tag: v0.10.0-rc.1
